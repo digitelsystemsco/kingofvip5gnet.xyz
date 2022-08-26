@@ -1,3 +1,11 @@
+#!/bin/bash
+#Script Variables
+HOST='174.138.190.54';
+USER='ksatunne_kingofvip5gnet';
+PASS='kin@@1p5gnet';
+DBNAME='ksatunne_kingofvip5gnet';
+PORT_TCP='1194';
+PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
 install_require () {
 clear
